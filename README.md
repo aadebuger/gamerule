@@ -1,0 +1,4 @@
+gamerule
+========
+
+game rule drools
